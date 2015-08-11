@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CE3F4F2D-37CD-4B0C-8195-C752E6253D6A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AlertDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2F8B29BB9F34E7971C138D5DF2D6B2565458FC41</key>
+		<string>https://github.com/krishnapicart/kp-unit-1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>week4/AlertDemo/AlertDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2F8B29BB9F34E7971C138D5DF2D6B2565458FC41</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/krishnapicart/kp-unit-1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2F8B29BB9F34E7971C138D5DF2D6B2565458FC41</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2F8B29BB9F34E7971C138D5DF2D6B2565458FC41</string>
+			<key>IDESourceControlWCCName</key>
+			<string>kp-unit-1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
